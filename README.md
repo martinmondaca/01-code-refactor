@@ -8,12 +8,9 @@ Throughout this process I learned of simple ways to make html elements more sema
 
 ## Horiseon Webpage Image
 
-```md
 ![Screenshot 1 of 2 of Horiseon webpage](assets/images/horiseon_screenshot_one.png)
-```
-```md
+
 ![Screenshot 2 of 2 of Horiseon webpage](assets/images/horiseon_screenshot_two.png)
-```
 
 ## Deployed Link 
 
